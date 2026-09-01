@@ -23,8 +23,8 @@ As i continue to improve my skills in fronte end, i decided to take a challenge 
 
 ### Links
 
--solution URL
--live site URL
+[solution URL](https://github.com/mbah-create/gym-landing-page)
+[live site URL](https://mbah-create.github.io/gym-landing-page/)
 
 ## My process
 
