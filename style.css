@@ -320,4 +320,15 @@ gap: var(--space-200);
         #navbar ul {
             flex-direction: column;
         } 
+.programs-card {
+    flex-direction: column;
+}
+.plans-cards  {
+    flex-direction: column;
+
+}
+        
     }
+
+
+ 
